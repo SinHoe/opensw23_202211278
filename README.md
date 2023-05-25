@@ -1,1 +1,22 @@
-# opensw23_202211278
+•Team Introduction
+
+  김신회 202211278
+  
+•Topic Introduction
+
+  empty
+  
+•Results
+  empty
+
+•Analysis/Visualization
+
+  empty
+
+•Installation
+
+  empty
+
+•Presentation
+
+ empty
